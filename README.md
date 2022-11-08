@@ -13,6 +13,9 @@ Insight(Aggregated):This layer has aggregation like stars on business per week a
 
 All these layers consist of databases with respective names for doing further analysis.
 
+There is a script Datalake_Solution_run.sh, use it to run python file .
+Datalake_Solution_run.sh requires 5 arguments that is file path for business,checkin,review,tip and users json files.
+
 Acknowledgements
 Code is designed on Databricks Apache Spark and Python.
 
